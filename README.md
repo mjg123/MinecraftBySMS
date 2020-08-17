@@ -24,7 +24,7 @@ This project was built [on-stream](https://twitch.tv/MaximumGilliard). It's a Ja
   - Check the path for the Minecraft server is set correctly [here](https://github.com/mjg123/MinecraftBySMS/blob/master/src/main/java/McServerController.java#L88).
   - Run the main method in your IDE
 
-Run Minecraft client locally and connect to a server on `localhost:25565`.
+Run Minecraft game client locally and connect to a server on `localhost:25565`.
 Send SMS to your Twilio number with Minecraft server commands, eg `say Hello everyone` or `weather clear`. There are [loads of things](https://minecraft.gamepedia.com/Commands#List_and_summary_of_commands) you can do.
 
 🎉🎉 ENJOY 🎉🎉
