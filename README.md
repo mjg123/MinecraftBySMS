@@ -1,4 +1,4 @@
-# SMS-controlled Minecraft server ⛏💎
+# SMS-controlled Minecraft server 📱 ➡️ ⛏💎
 
 This project was built [on-stream](https://twitch.tv/MaximumGilliard). It's a Java application that starts a Minecraft server and a webserver. The webserver is designed to handle webhook requests from Twilio's [Programmable SMS API](https://www.twilio.com/docs/usage/webhooks/sms-webhooks).
 
